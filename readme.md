@@ -1,5 +1,7 @@
 # `psil` - the language
 
+[![Run on Repl.it](https://repl.it/badge/github/lukeearly/psil)](https://repl.it/github/lukeearly/psil)
+
 `psil` is a modern functional language, taking inspiration from the lambda calculus of Alonzo Church and from the LISP family of programming languages. 
 
 ## Left-recursivity and Currying
